@@ -1,5 +1,4 @@
 var jsdom = require('jsdom'),
-    request = require('request'),
     _ = require('underscore'),
     Iconv = require('iconv').Iconv,
     euckr2utf8 = new Iconv('EUC-KR', 'UTF-8//TRANSLIT//IGNORE');
