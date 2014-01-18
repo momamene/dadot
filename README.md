@@ -1,4 +1,4 @@
 newsbody
 ========
 
-Extract content body article
+Extract content body from article

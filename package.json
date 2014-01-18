@@ -1,0 +1,24 @@
+{
+  "name": "dadot",
+  "version": "0.0.0",
+  "description": "Extract content body from article",
+  "main": "newsbody.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/momamene/dadot.git "
+  },
+  "author": "Hyuntak Joo <momamene@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/momamene/dadot.git /issues"
+  },
+  "dependencies": {
+    "jsdom": "~0.8.10",
+    "request": "~2.31.0",
+    "underscore": "~1.5.2",
+    "iconv": "~2.0.7"
+  }
+}
