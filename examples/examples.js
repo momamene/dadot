@@ -5,10 +5,5 @@ fs.readFile('./news.html', 'utf8', function (err, html) {
     if (err) {
         return console.log(err);
     }
-    Dadot.extract({
-        html: html,
-        done: function(html) {
-            console.log(html);
-        }
-    });
+    console.log(Dadot.extract(html));
 });
