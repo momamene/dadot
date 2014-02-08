@@ -2,7 +2,7 @@
   "name": "dadot",
   "version": "0.0.0",
   "description": "Extract content body from article",
-  "main": "newsbody.js",
+  "main": "dadot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
